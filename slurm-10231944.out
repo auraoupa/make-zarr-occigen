@@ -1,0 +1,364 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:40929'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:46283'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:38804'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:43567'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:37415'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:37780'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:40489'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:35927'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:33862'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:35017'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:34077'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:33403'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:41371'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:45540'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:46467'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:37498'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:35843'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:41518'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:38939'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:34311'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:46209'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:45311'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:37441'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:39057'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:44329'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:41048'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:34993'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.10.98:34518'
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:43272
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:43272
+distributed.worker - INFO -          dashboard at:         172.30.10.98:35519
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-sdo9z2zn
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:44101
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:44101
+distributed.worker - INFO -          dashboard at:         172.30.10.98:33473
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-i60866qg
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:44208
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:34020
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:44208
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:34020
+distributed.worker - INFO -          dashboard at:         172.30.10.98:41861
+distributed.worker - INFO -          dashboard at:         172.30.10.98:44949
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:37377
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:37377
+distributed.worker - INFO -          dashboard at:         172.30.10.98:44509
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-yj02ebg6
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-848y9juh
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-unj82olc
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:37374
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:37374
+distributed.worker - INFO -          dashboard at:         172.30.10.98:44633
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-9mau_bwj
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:40570
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:40570
+distributed.worker - INFO -          dashboard at:         172.30.10.98:46042
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-jrgtloug
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:41420
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:41420
+distributed.worker - INFO -          dashboard at:         172.30.10.98:41590
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-tndgw03_
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:43078
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:43078
+distributed.worker - INFO -          dashboard at:         172.30.10.98:38110
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-o3fc6pw1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:44414
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:44414
+distributed.worker - INFO -          dashboard at:         172.30.10.98:40576
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:33832
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-rd9gv2ux
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:33832
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.10.98:34112
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:37837
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-yjawc9xo
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:37837
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.10.98:45608
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:41082
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:41657
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:41082
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-a0wv6a7o
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:41657
+distributed.worker - INFO -          dashboard at:         172.30.10.98:37714
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO -          dashboard at:         172.30.10.98:43154
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-dyszpokz
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-k9td_cgr
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:43859
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:44966
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:44966
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:43859
+distributed.worker - INFO -          dashboard at:         172.30.10.98:33909
+distributed.worker - INFO -          dashboard at:         172.30.10.98:38328
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-l3gjbj94
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-9piw_hqn
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:43019
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:43019
+distributed.worker - INFO -          dashboard at:         172.30.10.98:34355
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-kqq3hm5m
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:37961
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:37961
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -          dashboard at:         172.30.10.98:40305
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-351ei95m
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:32795
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:32795
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO -          dashboard at:         172.30.10.98:33859
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-n6_iw8rs
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:36035
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:36035
+distributed.worker - INFO -          dashboard at:         172.30.10.98:33789
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-k80bam6z
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:42422
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:42422
+distributed.worker - INFO -          dashboard at:         172.30.10.98:37503
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-42yo5zfp
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:33777
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:33777
+distributed.worker - INFO -          dashboard at:         172.30.10.98:41504
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-si7wv808
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:40232
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:40232
+distributed.worker - INFO -          dashboard at:         172.30.10.98:40469
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-7_vpghqj
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:42395
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:42395
+distributed.worker - INFO -          dashboard at:         172.30.10.98:42374
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:36401
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-isj133nf
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:36401
+distributed.worker - INFO -          dashboard at:         172.30.10.98:33787
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-c8t0rkmz
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:45963
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:45963
+distributed.worker - INFO -          dashboard at:         172.30.10.98:34769
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-e3w7pjup
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:41947
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:41947
+distributed.worker - INFO -          dashboard at:         172.30.10.98:37811
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-pwg6pn73
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://172.30.10.98:35446
+distributed.worker - INFO -          Listening to:   tcp://172.30.10.98:35446
+distributed.worker - INFO -          dashboard at:         172.30.10.98:33204
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-1yg32qry
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34682
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
